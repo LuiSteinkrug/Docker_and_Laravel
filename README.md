@@ -213,7 +213,7 @@ This will run the watch-script specified within the `package.json`. Wepback will
 ## Start Production Environment
 
 
-## Edit dockerfile
+## Edit dockerfile if nesessary
 ```
 # check the current WORKDIR with:
 RUN pwd
